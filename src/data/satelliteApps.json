@@ -1,0 +1,14 @@
+[
+  {
+    "id": "app-1",
+    "name": "Property Analytics Hub",
+    "url": "/apps/analytics",
+    "status": "active"
+  },
+  {
+    "id": "app-2",
+    "name": "Tenant Portal",
+    "url": "/apps/tenant-portal",
+    "status": "active"
+  }
+]
